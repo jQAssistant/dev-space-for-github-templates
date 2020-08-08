@@ -2,8 +2,6 @@ blank_issues_enabled: true
 
 contact_links:
   - name: Use Stackoverflow for your question on jQAssistant
-    url: https://github.community/
-    about: Please use [stack*overflow*](https://stackoverflow.com) for supporting issues. Using stack*overflow* will help us to have all questions in a plublic space and you have the chance to get help from the whole jQAssistant community
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+    url: https://stackoverflow.com/questions/tagged/jqassistant
+    about: Please use stackoverflow for supporting issues. Using stackoverflow will help us to have all questions in a plublic space and you have the chance to get help from the whole jQAssistant community.
+ 

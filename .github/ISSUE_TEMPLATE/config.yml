@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 
 contact_links:
-  - name: GitHub Community Support
+  - name: Use Stackoverflow for your question on jQAssistant
     url: https://github.community/
     about: Please ask and answer questions here.
   - name: GitHub Security Bug Bounty

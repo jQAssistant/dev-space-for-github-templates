@@ -6,13 +6,15 @@ labels: type:bug
 assignees: ''
 ---
 
-_This hint can be removed_
+_Remove this thint:_
 **We are happy, to know about the problems you have while using jQAssistant. Sometimes we learn 
 more about us and our projects from the bugs you find. Please try to fillout as many sections as good as you can. 
 If you can't provide us any information for a particular section, that is not problem.
 Even if this template looks very formal, we aren't.** 
 
-=== Bug description
+### Bug description
+
+
 
 ### Expected behaviour
 _Remove this hint: What did you actual expect from jQAssistant?_
@@ -41,7 +43,7 @@ Provide your own project and instructions how to reproduce the problem.
 Provide a code sample with a bunch of magic parameters which we need to interpolate by guessing to reconstruct the actual problem.
 
 #### Worst :poop:
-Say the source code or the data can't be disclosed and refuse to provide any of the above. Expect this issue to be closed by a bunch of angry aliens :alien::alien::alien::alien::alien: that will hunt you down and :fire: your :computer:. You've been warned. :fire_engine:
+The source code or the data can't be disclosed and refuse to provide any of the above. Expect this issue to be closed by a bunch of angry aliens :alien::alien::alien::alien::alien: that will hunt you down and :fire: your :computer:. You've been warned. :fire_engine:
 
 ### How could we have prevented this Bug?
 _Remove this hint: Is there anything we could have done to prevent this problem?_

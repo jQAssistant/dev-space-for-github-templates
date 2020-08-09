@@ -15,7 +15,6 @@ Even if this template looks very formal, we aren't.**
 ### Bug description
 
 
-
 ### Expected behaviour
 _Remove this hint: What did you actual expect from jQAssistant?_
 

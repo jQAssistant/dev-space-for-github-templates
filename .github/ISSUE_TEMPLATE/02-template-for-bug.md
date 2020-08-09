@@ -26,19 +26,19 @@ to find out, if the problem is only related to the crappy code we have written o
 *XYZ:*
 
 ### How can we reproduce the bug?
-_Remove this hint: Pick one of these - use the Preview feature of this editor to get a sense which option we like best_
+_Remove this hint: Pick one of these options. Use the Preview feature of this editor to get a sense which option we like best_
 
 #### Awesome :star::star::star::star::star:
 Provide a (link to a) minimal demo app showing the faulty behaviour.
 
 #### Sweet :star::star::star::star:
-Provide a concise code sample which can be dropped into a freshly created Cordova CLI app.
+Provide some concise code examples or some data you use.
 
 #### Good :star::star::star:
-Provide your own app and instructions how to reproduce the issue.
+Provide your own project and instructions how to reproduce the problem.
 
 #### Meh :star::star:
-Provide a code sample with a bunch of magic parameters which I need to interpolate by guessing to reconstruct the actual runtime code.
+Provide a code sample with a bunch of magic parameters which we need to interpolate by guessing to reconstruct the actual problem.
 
 #### Worst :poop:
 Say the source code or the data can't be disclosed and refuse to provide any of the above. Expect this issue to be closed by a bunch of angry aliens :alien::alien::alien::alien::alien: that will hunt you down and :fire: your :computer:. You've been warned. :fire_engine:

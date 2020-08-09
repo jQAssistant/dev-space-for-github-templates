@@ -16,6 +16,9 @@ I, as...
 would like...
 to that...
 
+### Addtional information on the requested Feature
+_Remove this hint: Feel free to let us know what ever you wan't :wink:_
+
 ### How to Test
 _Remove this hint: How can we test if the feature works as you expect it to work?_
 

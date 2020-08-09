@@ -1,6 +1,6 @@
 ---
 name: Task Template
-about: Used mainly by the team behind jQAssistant for issues which aren't a feature nor a bug, but must be done and should'nt be forgotten
+about: Used mainly by the team behind jQAssistant for issues which aren't a feature nor a bug, but must be done and should'nt be forgotten.
 title: Please fullfil this task
 labels: type:task
 assignees: ''

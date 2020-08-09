@@ -22,9 +22,9 @@ _Remove this hint: What did you actual expect from jQAssistant?_
 _Remove this hint: Some bugs are releated to the environment jQAssitant is running in. Please help us
 to find out, if the problem is only related to the crappy code we have written or to the environment._
 
-*JDK:*
-*OS:*
-*XYZ:*
+- *JDK:*
+- *OS:*
+- *XYZ:*
 
 ### How can we reproduce the bug?
 _Remove this hint: Pick one of these options. Use the Preview feature of this editor to get a sense which option we like best_

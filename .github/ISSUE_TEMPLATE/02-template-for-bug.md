@@ -26,11 +26,6 @@ to find out, if the problem is only related to the crappy code we have written o
 *XYZ:*
 
 ### How can we reproduce the bug?
-
-
-### How could we have prevented this Bug?
-_Remove this hint: Is there anything we could have done to prevent this problem?_
-
 _Remove this hint: Pick one of these - use the Preview feature of this editor to get a sense which option we like best_
 
 #### Awesome :star::star::star::star::star:
@@ -46,4 +41,7 @@ Provide your own app and instructions how to reproduce the issue.
 Provide a code sample with a bunch of magic parameters which I need to interpolate by guessing to reconstruct the actual runtime code.
 
 #### Worst :poop:
-Say the source code can't be disclosed and refuse to provide any of the above. Expect this issue to be closed by a bunch of angry aliens :alien::alien::alien::alien::alien: that will hunt you down and :fire: your :computer:. You've been warned. :fire_engine:
+Say the source code or the data can't be disclosed and refuse to provide any of the above. Expect this issue to be closed by a bunch of angry aliens :alien::alien::alien::alien::alien: that will hunt you down and :fire: your :computer:. You've been warned. :fire_engine:
+
+### How could we have prevented this Bug?
+_Remove this hint: Is there anything we could have done to prevent this problem?_

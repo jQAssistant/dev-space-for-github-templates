@@ -2,7 +2,7 @@
 name: Feature Request Template
 about: Request a feature for this particular subproject.
 title: 'x'
-labels: 'x'
+labels: 'type:enhancement'
 assignees: ''
 
 ---

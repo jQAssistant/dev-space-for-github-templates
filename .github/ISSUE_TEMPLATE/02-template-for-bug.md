@@ -1,3 +1,11 @@
+---
+name: Bug Report Template
+about: Report a bug using this template
+title: Bug Report
+labels: type:bug
+assignees: ''
+---
+
 _This hint can be removed_
 **We are happy, to know about the problems you have while using jQAssistant. Sometimes we learn 
 more about us and our projects from the bugs you find. Please try to fillout as many sections as good as you can. 
@@ -9,6 +17,13 @@ Even if this template looks very formal, we aren't.**
 ### Expected behaviour
 _Remove this hint: What did you actual expect from jQAssistant?_
 
+### Your Environment
+_Remove this hint: Some bugs are releated to the environment jQAssitant is running in. Please help us
+to find out, if the problem is only related to the crappy code we have written or to the environment._
+
+*JDK:*
+*OS:*
+*XYZ:*
 
 ### How can we reproduce the bug?
 
